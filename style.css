@@ -1,0 +1,16 @@
+.card{
+    width: 20rem;
+    background-color: whitesmoke;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+#note-id{
+    display: none;
+}
+
+#alert-msg{
+    display: none;
+}
